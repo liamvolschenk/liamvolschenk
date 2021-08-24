@@ -7,7 +7,7 @@ I hope to use my work as a means of growing our economy fairly and safe guarding
 </em></p>
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### More about me:  
 
 ```javascript
 const liam = {
@@ -19,7 +19,7 @@ const liam = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 
 
 [![Linkedin: liam-volschenk](https://img.shields.io/badge/-liamvolschenk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liam-volschenk-a72538116/)](https://www.linkedin.com/in/liam-volschenk-a72538116/)
