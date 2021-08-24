@@ -4,9 +4,8 @@
 I specialize in the MERN stack (MongoDB, Express, React.js and Node.js). However, I am a fast learner and I enjoy learning and adapting to any technologies or stack.
 
 I hope to use my work as a means of growing our economy fairly and safe guarding our environment for all future generations to enjoy. 
-<img src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" width="1000">  
+<img src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" width="700">  
 </em></p>
-
 
 ### More about me:  
 
