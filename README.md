@@ -19,8 +19,8 @@ const liam = {
 }
 ```
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=liamvolschenk&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
-
-[![Linkedin: liam-volschenk](https://img.shields.io/badge/-liamvolschenk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liam-volschenk-a72538116/)](https://www.linkedin.com/in/liam-volschenk-a72538116/)
+[![Linkedin: liam-volschenk](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liam-volschenk-a72538116/)](https://www.linkedin.com/in/liam-volschenk-a72538116/)
 ---
