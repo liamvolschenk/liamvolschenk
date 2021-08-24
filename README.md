@@ -19,8 +19,5 @@ const liam = {
 }
 ```
 
-
-
-
 [![Linkedin: liam-volschenk](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liam-volschenk-a72538116/)](https://www.linkedin.com/in/liam-volschenk-a72538116/)
 ---
