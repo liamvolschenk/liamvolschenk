@@ -1,6 +1,9 @@
-<h2> Hi, I'm Liam Volschenk! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<h2> Hi, I'm Liam Volschenk! </h2>
+<p><em>Hello, my name is Liam Volschenk, I am an aspiring web developer with a passion for photography, design, technology and problem solving.
+
+I specialize in the MERN stack (MongoDB, Express, React.js and Node.js). However, I am a fast learner and I enjoy learning and adapting to any technologies or stack.
+
+I hope to use my work as a means of growing our economy fairly and safe guarding our environment for all future generations to enjoy. 
 </em></p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
