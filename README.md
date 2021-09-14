@@ -13,10 +13,10 @@ I hope to use my work as a means of growing our economy fairly and safe guarding
 const liam = {
   pronouns: "he" | "him",
   age: 25,
-  interests: [web dev, photography, design, outdoors],
-  technologies: [Javascript, HTML, CSS],
-  tools: [React, Redux, Node, Express, Styled-Components, Bootstrap, Next, MongoDB],
-}
+  interests: ["web_dev", "photography", "design", "outdoors"],
+  technologies: ["Javascript", "HTML", "CSS"],
+  tools: ["React", "Redux", "Node", "Express", "Styled_Components", "Bootstrap", "Next", "MongoDB"]
+} 
 ```
 
 [![Linkedin: liam-volschenk](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liam-volschenk-a72538116/)](https://www.linkedin.com/in/liam-volschenk-a72538116/)
